@@ -1,0 +1,36 @@
+HTML
+
+    10 páginas (10 arquivos .html)
+    Deve ser possível acessar qualquer página sem ter que digitar o endereço no browser (exceto para entrar no site)
+    Deve conter a maioria das tags vistas em aula.
+    Links internos, externos e locais
+    Listas e tabelas
+    Multimídia
+    Usar tags semânticas (section, header, footer, main, etc...)
+    O site inteiro deverá ser HTML válido e ser acessível para deficientes visuais. Serão avaliadas as questões técnicas e não o conteúdo.
+    CSS
+
+CSS Externo:
+    Seletores Avançados, hover
+    Bordas
+    Hover
+    Background Image / Color
+    Indentação, formatação de Texto e Google Fonts (ou Custom Fonts em geral)
+    Position (relative / absolute / fixed/flex/bootstrap)
+
+JS:
+    Implemente ao menos uma calculadora de alguma disciplina (Sistemas de conversão, fórmulas, cálculos e etc) ou um pequeno quiz que precise dar uma resposta para o usuário.
+
+
+
+
+
+
+    <header>
+        <div>
+            
+        </div>
+        <nav>
+
+        </nav>
+    </header>
