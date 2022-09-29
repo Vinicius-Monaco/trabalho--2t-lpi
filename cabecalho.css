@@ -1,31 +1,29 @@
+html {
+    overflow-x: hidden;
+    height: 1000px;
+}
+
 header {
-    background: rgb(19,181,155);
     background: linear-gradient(90deg, rgba(19,181,155,1) 0%, rgba(70,83,173,1) 100%);
     height: 200px;
-    width: auto;
+    width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.img-if {
-    position: relative;
-    /* border: 1px solid red; */
-}
 
 .title {
-    position: relative;
     height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    /* border: 1px solid red; */
 
     font-family: 'Abyssinica SIL', serif;
     color: rgb(197, 207, 206);
     text-shadow: 2px 4px 8px rgba(0,0,0,0.9);
 }
 .img-if img {
-    margin: 40px;
+    margin: 39px;
     max-width:120px;
     max-height:120px;
     width: auto;
@@ -33,8 +31,6 @@ header {
 }
 
 .btns-info {
-    position: relative;
-    /* border: 1px solid red; */
     height: 100%;
     display: flex;
     justify-content: space-around;
@@ -49,6 +45,7 @@ header {
     width: auto;
     height: auto;
 }
+
 
 
 
