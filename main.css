@@ -1,0 +1,9 @@
+.forms-areas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h5 {
+    color: rgb(255, 255, 255);
+}

@@ -26,10 +26,10 @@ header {
     color: rgb(197, 207, 206);
     text-shadow: 2px 4px 8px rgba(0,0,0,0.9);
 }
-.img-if img {
-    margin: 39px;
-    max-width:120px;
-    max-height:120px;
+.header-img-if img {
+    margin: 40px;
+    max-width: 120px;
+    max-height: 120px;
     width: auto;
     height: auto;
 }
@@ -51,5 +51,5 @@ header {
 }
 
 .navbar {
-    border-bottom: 1px solid rgba(70,83,173,0.5);
+    border-bottom: 1px solid rgba(70,83,173,0.3);
 }
