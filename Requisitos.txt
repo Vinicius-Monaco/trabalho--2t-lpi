@@ -20,17 +20,3 @@ CSS Externo:
 
 JS:
     Implemente ao menos uma calculadora de alguma disciplina (Sistemas de conversão, fórmulas, cálculos e etc) ou um pequeno quiz que precise dar uma resposta para o usuário.
-
-
-
-
-
-
-    <header>
-        <div>
-            
-        </div>
-        <nav>
-
-        </nav>
-    </header>

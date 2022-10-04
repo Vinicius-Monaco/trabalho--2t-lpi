@@ -1,0 +1,39 @@
+body {
+    color: rgb(255, 255, 255);
+}
+
+table {
+    width: 100%;
+    text-align: center;
+}
+
+th, td {
+    border: 1px solid white;
+}
+
+th {
+    background-color: dimgrey;
+}
+
+.bandeira {
+    display: flex;
+    justify-content: end;
+    margin-right: 10px;
+}
+
+.bandeira img {
+    max-width: 30px;
+}
+
+#td1 {
+    background-color: rgba(0, 110, 255, 0.219);
+}
+
+#td2 {
+    background-color: rgba(204, 0, 255, 0.199);
+}
+
+.tabelas {
+    display: flex;
+    justify-content: end;
+}
