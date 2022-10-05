@@ -1,0 +1,52 @@
+main {
+    color: rgb(204, 204, 204);
+    font-size: larger;
+}
+
+.col-3, .col-8, .col-4, .col-12, .col-1, .col-2, .col-5, .col-6, .col-7, .col-9, .col-10, .col-11 {
+    border: 1px solid raed;
+}
+
+.img-celsius {
+    padding: 0;
+}
+
+.texto-baixo {
+    padding-left: 30px;
+    padding-top: 0px;
+}
+
+.texto-cima {
+    padding-bottom: 30px;
+}
+
+figure {
+    padding-left: 5px;
+}
+
+.img-celsius img {
+    max-width: 100%;
+    max-height: 100%;
+    border: 1px solid gray
+}
+
+table {
+    width: 100%;
+    text-align: center;
+}
+
+th, td {
+    border: 1px solid white;
+}
+
+th {
+    background-color: dimgrey;
+}
+
+#td1 {
+    background-color: rgba(0, 110, 255, 0.466);
+}
+
+#td2 {
+    background-color: rgba(0, 217, 255, 0.199);
+}
